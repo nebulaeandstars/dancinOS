@@ -5,4 +5,5 @@ currently garbage. Don't use it.
 
 ### Current features
 
-- None
+- Multitasking support
+- Beginnings of a basic HAL
