@@ -5,7 +5,5 @@
 .type main, %function
 main:
 
-  loop:
-    nop
-    b loop
+  bl redblink
 .size main, .-main
