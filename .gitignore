@@ -2,3 +2,4 @@
 *.bin
 *.o
 .vscode/.cortex-debug*
+.vscode
