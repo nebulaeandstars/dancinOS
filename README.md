@@ -1,9 +1,7 @@
 # dancinOS
 
-This is a toy operating system for the STM32l476G Discovery Board. It's
-currently garbage. Don't use it.
+This is a toy operating system for the STM32L476G Discovery Board.
 
 ### Current features
 
-- Multitasking support
-- Beginnings of a basic HAL
+- Multitasking
